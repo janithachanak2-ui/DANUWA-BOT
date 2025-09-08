@@ -1,7 +1,7 @@
 /**
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                   ＷＨＡＴＳＡＰＰ　ＢＯＴ－ＤＡＮＵＷＡ　ＭＤ                           //
+//                                   ＷＨＡＴＳＡＰＰ　ＢＯＴ－𝐉𝐀𝐍𝐈𝐘𝐀 𝐕𝟏𝟎                                 //
 //                                                                                                      // 
 //                                             Ｖ：1．0．0                                               // 
 //                                                                                                      // 
@@ -12,7 +12,7 @@
 //     ██████╔╝██║  ██║██║ ╚███║╚██████╔╝╚███╔███╔╝██║  ██║    ██║ ╚═╝ ██║██████╔╝                      //
 //     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚══╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝╚═════╝                       //
 //                                                                                                      //
-//                            Powerful WhatsApp Bot by Danuka Disanayaka                                //
+//                            Powerful WhatsApp Bot by janitha chanaka                                  //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
@@ -20,17 +20,17 @@
 CURRENTLY RUNNING ON STABLE VERSION!
 
 *
-   * @project_name : DANUWA-MD
-   * @author       : Danuka Disanayaka
-   * @github       : https://github.com/DANUWA-MD
-   * @description  : DANUWA-MD is a multifunctional WhatsApp bot built using Baileys.
-   * @version      : 1.0.0
+   * @project_name : 𝐉𝐀𝐍𝐈𝐘𝐀 𝐕𝟏𝟎
+   * @author       : janitha chanaka
+   * @github       : https://github.com/janithachanak2-ui
+   * @description  : 𝐉𝐀𝐍𝐈𝐘𝐀 𝐕𝟏𝟎 is a multifunctional WhatsApp bot built using Baileys.
+   * @version      : 10
 *
    * Licensed under the GNU GPL-3.0 License.
 * 
-   * ┌┤Created By Danuka Disanayaka
-   * © 2025 DANUWA-MD ✭ ⛥.
-   * plugin date : 07/02/2025
+   * ┌┤Created By Janitha chanaka
+   * © 2025 𝐉𝐀𝐍𝐈𝐘𝐀 𝐕𝟏𝟎 ✭ ⛥.
+   * plugin date : 08/09/2025
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
