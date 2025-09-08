@@ -7,23 +7,23 @@ function convertToBool(text, fault = 'true') {
 
 
 
-// Change following defaultConfig if you are deploying DANUWA-MD on github actions/github codespaces or replit...Railway users don't need to edit this
+// Change following defaultConfig if you are deploying 𝐉𝐀𝐍𝐈𝐘𝐀 𝐕𝟏𝟎 on github actions/github codespaces or replit...Railway users don't need to edit this
 
 
 
 const defaultConfig = {
   SESSION_ID: "", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
-  ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
+  ALIVE_MSG: "*Hello👋𝐉𝐀𝐍𝐈𝐘𝐀 𝐕𝟏𝟎 INNAWA HUTTO😍*", // Change alive msg from here
   OPENAI_API_KEY: "",// Add OPENAI API key here
   GEMINI_API_KEY: "", // Add Gemini API key here
   REMOVE_BG_API_KEY:"", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
-  BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94776121326"], // Replace your bot owner number here (same as bot owner number)
-  AUTO_STATUS_REACT: "true",
-  AUTO_STATUS_REPLY: "true",
-  AUTO_STATUS_SEEN: "true",
+  BOT_OWNER: "94766960038", // Replace your bot owner number here with 94(country code)
+  ownerNumber: ["94766960038"], // Replace your bot owner number here (same as bot owner number)
+  AUTO_STATUS_REACT: "false",
+  AUTO_STATUS_REPLY: "false",
+  AUTO_STATUS_SEEN: "false",
   MODE: "public", // 'private', 'public'
 };
 
